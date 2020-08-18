@@ -1,3 +1,4 @@
+# by Mikhail Agafonov https://hyperskill.org/profile/10572630
 import math
 
 
